@@ -1,0 +1,15 @@
+{
+    "case12":{"physical_error": 0.001, "logical_error": 9.204589254792618e-05, "variance": 8.825464932233722e-11},
+    "case11":{"physical_error": 0.0008254041852680183, "logical_error": 6.192127970644727e-05, "variance": 3.5502267411889613e-11},
+    "case10":{"physical_error": 0.0006812920690579614, "logical_error": 3.5632438271489176e-05, "variance": 1.3364954286015646e-11},
+    "case9":{"physical_error": 0.0005623413251903491, "logical_error": 1.5823836394190754e-05, "variance": 4.17322997050193e-12},
+    "case8":{"physical_error": 0.00046415888336127784, "logical_error": 1.4223565207737146e-05, "variance": 2.8098584335937585e-12},
+    "case7":{"physical_error": 0.0003831186849557288, "logical_error": 5.904673704623359e-06, "variance": 9.175045146860672e-13},
+    "case6":{"physical_error": 0.000316227766016838, "logical_error": 4.335027223970967e-06, "variance": 5.527194421343949e-13},
+    "case5":{"physical_error": 0.0002610157215682537, "logical_error": 1.2998052891676827e-06, "variance": 1.4079114914569028e-13},
+    "case4":{"physical_error": 0.0002154434690031884, "logical_error": 1.135957445519481e-06, "variance": 1.0753327650259537e-13},
+    "case3":{"physical_error": 0.0001778279410038923, "logical_error": 6.77685608770065e-07, "variance": 5.74072230417567e-14},
+    "case2":{"physical_error": 0.00014677992676220695, "logical_error": 4.633041492901872e-07, "variance": 3.577512245825067e-14},
+    "case1":{"physical_error": 0.00012115276586285884, "logical_error": 0.0, "variance": 0.0},
+    "case0":{"physical_error": 0.0001, "logical_error": 1.3449660342277715e-07, "variance": 9.044668166131897e-15}
+    }

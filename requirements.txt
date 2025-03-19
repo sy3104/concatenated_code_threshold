@@ -1,0 +1,12 @@
+stim == 1.9.0
+sinter == 1.9.0
+qiskit == 0.46.1
+matplotlib
+numpy
+pytest
+scipy
+typing
+random
+math
+json
+sys

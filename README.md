@@ -1,6 +1,6 @@
 # concatenated_code_threshold
 
-This code is accompanied to the paper Satoshi Yoshida, Shiro Tamiya, Hayata Yamasaki, "Concatenated codes, save qubits", [arXiv:2402.09606](https://arxiv.org/abs/2402.09606).
+This code is accompanied to the paper Satoshi Yoshida, Shiro Tamiya, Hayata Yamasaki, "Concatenated codes, save qubits", [npj Quantum Information 11, 88 (2025)](https://doi.org/10.1038/s41534-025-01035-8), [arXiv:2402.09606](https://arxiv.org/abs/2402.09606).
 
 ## Contents
 - `code`: Source code to evaluate the logical error rates of quantum Hamming codes, C4/C6 code, C4/Steane code, and concatenated Steane codes.
